@@ -1,5 +1,5 @@
 {
-  "name": "baileys-mod",
+  "name": "baileys",
   "version": "6.8.4",
   "description": "Custom Baileys WhatsApp API",
   "keywords": [
@@ -7,9 +7,9 @@
     "js-whatsapp", "whatsapp-api", "whatsapp-web", "whatsapp-bot",
     "automation", "multi-device"
   ],
-  "homepage": "https://github.com/nstar-y/bail",
+  "homepage": "https://github.com/ditss-dev/baileys",
   "repository": {
-    "url": "git+ssh://git@github.com/nstar-y/bail.git"
+    "url": "git+ssh://git@github.com/ditss-dev/baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
