@@ -3,9 +3,9 @@
   "version": "6.8.4",
   "description": "Custom Baileys WhatsApp API",
   "keywords": [
-    "baileys", "baileys-mod", "wabot", "whatsapp",
+    "bailey","baileys", "baileys-mod", "wabot", "whatsapp",
     "js-whatsapp", "whatsapp-api", "whatsapp-web", "whatsapp-bot",
-    "automation", "multi-device"
+    "automation", "multi-device", "bail", "ditss", "asuma"
   ],
   "homepage": "https://github.com/ditss-dev/baileys",
   "repository": {
