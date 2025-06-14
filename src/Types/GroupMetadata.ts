@@ -1,6 +1,12 @@
 import { Contact } from './Contact'
 
-export type GroupParticipant = (Contact & { isAdmin?: boolean, isSuperAdmin?: boolean, admin?: 'admin' | 'superadmin' | null, lid?: string })
+export type GroupParticipant = (Contact & {
+    isAdmin?: boolean,
+    isSuperAdmin?: boolean,
+    admin?: 'admin' | 'superadmin' | null,
+    jid?: string,
+    lid?: string
+})
 
 export type ParticipantAction = 'add' | 'remove' | 'promote' | 'demote' | 'modify'
 
